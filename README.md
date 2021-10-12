@@ -56,3 +56,7 @@ There are 4 odds numbers in the array
 #### a. Write a program that prompts the user to input an integer and then outputs the number with the digits reversed. For example, if the input is 12345, the output should be 54321.
 
 #### b. Write a program to enter the numbers till the user wants and at the end it should display the count of positive, negative and zeros entered. 
+
+# Learning Resources  📚
+* [Conditionals and loops in Kotlin](https://kotlinlang.org/docs/control-flow.html)
+* [Arrays in Kotlin](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-array/)
