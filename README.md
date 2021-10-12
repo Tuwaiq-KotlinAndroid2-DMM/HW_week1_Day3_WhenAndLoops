@@ -10,12 +10,27 @@
 Output:
 ```
 Enter the number of the month:
+2
+*****************
+February has 28 days
+*****************
+```
+```
+Enter the number of the month:
 1
 *****************
-January has 31
+January has 31 days
 *****************
 ```
 
 ## Part II - Practice with Loops.
 ---
-###  Write a Kotlin program 
+###  Write a program that prompts the user to input a positive integer. It should then print the multiplication table of that number. 
+
+
+## Part III - Challenges (Optional)
+--- 
+
+#### a. Write a program that prompts the user to input an integer and then outputs the number with the digits reversed. For example, if the input is 12345, the output should be 54321.
+
+#### b. Write a program to enter the numbers till the user wants and at the end it should display the count of positive, negative and zeros entered. 
