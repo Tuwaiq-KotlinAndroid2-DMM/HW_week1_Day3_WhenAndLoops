@@ -1,0 +1,12 @@
+fum main () {
+     \*println("Enter number to show tha multiblicatin table:")
+     var n = Integer>value0f(readZLine())
+     var counter = 1
+     while (n ! =0 && counter <= 10 ){
+
+     var total = n*counter
+     println("$n * $counter = $total")
+
+          counter++
+
+     }*\
